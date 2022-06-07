@@ -1,0 +1,18 @@
+Insert abc
+Insert ABc
+Look 786
+Look 787
+Insert AbC
+Insert aBC
+Look 786
+Search abc
+Delete abc
+Look 786
+Search abc
+Delete ABC
+Look 786
+Search abc
+Delete ABc
+Insert ABd
+Look 787
+End

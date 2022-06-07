@@ -1,0 +1,22 @@
+[0, Heap_Node(1), Heap_Node(18), Heap_Node(3), Heap_Node(24), Heap_Node(19), Heap_Node(5), Heap_Node(15), Heap_Node(25), Heap_Node(32), Heap_Node(20), Heap_Node(22), Heap_Node(14)]
+Heap_Node(1)
+[0, Heap_Node(3), Heap_Node(18), Heap_Node(5), Heap_Node(24), Heap_Node(19), Heap_Node(14), Heap_Node(15), Heap_Node(25), Heap_Node(32), Heap_Node(20), Heap_Node(22)]
+Heap_Node(3)
+[0, Heap_Node(5), Heap_Node(18), Heap_Node(14), Heap_Node(24), Heap_Node(19), Heap_Node(22), Heap_Node(15), Heap_Node(25), Heap_Node(32), Heap_Node(20)]
+Heap_Node(5)
+[0, Heap_Node(14), Heap_Node(18), Heap_Node(15), Heap_Node(24), Heap_Node(19), Heap_Node(22), Heap_Node(20), Heap_Node(25), Heap_Node(32)]
+Heap_Node(14)
+[0, Heap_Node(15), Heap_Node(18), Heap_Node(20), Heap_Node(24), Heap_Node(19), Heap_Node(22), Heap_Node(32), Heap_Node(25)]
+Heap_Node(15)
+[0, Heap_Node(18), Heap_Node(19), Heap_Node(20), Heap_Node(24), Heap_Node(25), Heap_Node(22), Heap_Node(32)]
+Heap_Node(18)
+[0, Heap_Node(19), Heap_Node(24), Heap_Node(20), Heap_Node(32), Heap_Node(25), Heap_Node(22)]
+Heap_Node(19)
+[0, Heap_Node(20), Heap_Node(24), Heap_Node(22), Heap_Node(32), Heap_Node(25)]
+Heap_Node(20)
+[0, Heap_Node(22), Heap_Node(24), Heap_Node(25), Heap_Node(32)]
+Heap_Node(22)
+[0, Heap_Node(24), Heap_Node(32), Heap_Node(25)]
+Heap_Node(24)
+[0, Heap_Node(25), Heap_Node(32)]
+Heap_Node(25)
